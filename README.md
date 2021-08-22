@@ -1,4 +1,8 @@
-### Hi there 👋
+## Greetings! 
+
+I hope you find something here that might interest you. 
+
+#### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
 
 <!--
 **ritikthakur/ritikthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
