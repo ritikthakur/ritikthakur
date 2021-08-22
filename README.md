@@ -2,7 +2,12 @@
 
 I hope you find something of interest here. 
 
-#### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
+---
+### Ongoing Project
+- I'm presently working on developing credit risk scorecard to implement intelligent credit scoring of credit applications. 
+---
+You can click on below to view my Tableau dashboards.
+### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
 
 <!--
 **ritikthakur/ritikthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
