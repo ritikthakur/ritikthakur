@@ -1,6 +1,6 @@
 ## Greetings! 
 
-I hope you find something here that might interest you. 
+I hope you find something of interest here. 
 
 #### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
 
