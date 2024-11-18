@@ -4,7 +4,7 @@ I hope you find something of interest here.
 
 ---
 ### Ongoing Project
-- I'm presently working on developing credit risk scorecard to implement intelligent credit scoring of credit applications. 
+- I'm presently working on a project - customer segmentation using ML. 
 ---
 You can click on below to view my Tableau dashboards.
 ### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
