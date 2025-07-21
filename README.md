@@ -4,7 +4,7 @@ I hope you find something of interest here.
 
 ---
 ### Ongoing Project
-- I'm presently working on a project - customer segmentation using ML. 
+- Presently working on a project - demand forecasting. 
 ---
 You can click on below to view my Tableau dashboards.
 ### [My Tableau Profile](https://public.tableau.com/app/profile/ritikthakur) 
